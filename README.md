@@ -42,4 +42,4 @@ A selection of refactoring katas that include a Ruby version.
 
 ## Contributing
 
-Is there a kata missing? Feel free to submit an Issue or a Pull Request.
+Is there a kata missing? Feel free to submit a pull request.
