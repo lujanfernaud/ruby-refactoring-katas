@@ -39,3 +39,7 @@ https://github.com/emilybache/KataTrainReservation
 ### Yatzy / Yahtzee
 
 https://github.com/emilybache/Yatzy-Refactoring-Kata
+
+## Contributing
+
+Is there a kata missing? Feel free to submit an Issue or a Pull Request.
